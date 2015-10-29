@@ -2,6 +2,7 @@
 #however that was all I could think of at the time. Is Zyra a good second main name? 
 
 y_name = input("Hello there, young one. What is your name?").capitalize()
+y_gen = input("What is your gender?").lower()
 #this will be the main character's(the reader) name throughout the story
 
 print ("""
